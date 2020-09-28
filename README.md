@@ -11,4 +11,4 @@ SceneBuilder est un outil interactif de conception d'interface graphique pour Ja
 
 La vidéo est disponible sur ma chaîne youtube
 
-[JavaFX Page de connexion vidéo](https://youtu.be/afTbBzvr0_U)
+[JavaFX Page de connexion vidéo](https://youtu.be/t7Vn33I_aQg)
